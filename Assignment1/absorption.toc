@@ -1,0 +1,3 @@
+\contentsline {section}{\numberline {I}Components}{1}{}%
+\contentsline {section}{\numberline {II}Absorption Law}{1}{}%
+\contentsline {section}{\numberline {III}Procedure:}{1}{}%
